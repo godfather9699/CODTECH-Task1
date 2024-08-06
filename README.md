@@ -10,6 +10,11 @@
 ## Objective:
 - **Provide a Simple Arithmetic Tool:** Create a basic calculator that allows users to perform fundamental arithmetic operations (addition, subtraction, multiplication, division).
 
+## Output:
+![image](https://github.com/user-attachments/assets/aacf1c6b-d819-47b8-8107-3382fe05e6bb)
+
+
+
 ## Key Activities:
 
 1. **Design the User Interface:**
